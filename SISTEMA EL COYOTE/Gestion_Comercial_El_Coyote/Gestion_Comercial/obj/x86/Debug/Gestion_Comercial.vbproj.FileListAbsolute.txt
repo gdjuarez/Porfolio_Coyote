@@ -1,0 +1,869 @@
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Comercial\Gestion_Comercial\bin\Debug\GestionLibreriaBigogno.exe.config
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Comercial\Gestion_Comercial\bin\Debug\GestionLibreriaBigogno.exe.manifest
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Comercial\Gestion_Comercial\bin\Debug\GestionLibreriaBigogno.application
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Comercial\Gestion_Comercial\bin\Debug\GestionLibreriaBigogno.exe
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Comercial\Gestion_Comercial\bin\Debug\GestionLibreriaBigogno.pdb
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Comercial\Gestion_Comercial\bin\Debug\GestionLibreriaBigogno.xml
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.vbprojResolveAssemblyReference.cache
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\GestionLibreriaBigogno.FrmActualizaPrecio.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\GestionLibreriaBigogno.FrmGestionCompras.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\GestionLibreriaBigogno.FrmMarca.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\GestionLibreriaBigogno.FrmClienteRetira.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\GestionLibreriaBigogno.FrmBusquedaPresupuesto.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\GestionLibreriaBigogno.FrmBusquedaVenta.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\GestionLibreriaBigogno.FrmBusquedaVentaSinPago.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\GestionLibreriaBigogno.FrmArqueo.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\GestionLibreriaBigogno.frmCaja.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\GestionLibreriaBigogno.FrmCargaPagoCC.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\GestionLibreriaBigogno.FrmConsultaPrecio.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\GestionLibreriaBigogno.FrmCreaCodigos.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\GestionLibreriaBigogno.FrmAnulaVenta.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\GestionLibreriaBigogno.FrmVentasCC.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\GestionLibreriaBigogno.FacturaImpresion.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\GestionLibreriaBigogno.PresupuestoImpresion.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\GestionLibreriaBigogno.FrmArticulos.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\GestionLibreriaBigogno.frmClientes.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\GestionLibreriaBigogno.FrmMisDatos.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\GestionLibreriaBigogno.frmProveedores.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\GestionLibreriaBigogno.FrmAbout.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\GestionLibreriaBigogno.FrmBackUp.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\GestionLibreriaBigogno.FrmHacerBackup.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\GestionLibreriaBigogno.FrmRestaurarBackUp.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\GestionLibreriaBigogno.FrmBusquedaArticulo.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\GestionLibreriaBigogno.FrmBusquedaCliente.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\GestionLibreriaBigogno.frmCompras.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\GestionLibreriaBigogno.FrmPresupuestos.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\GestionLibreriaBigogno.FrmVentas.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\GestionLibreriaBigogno.frmUsuarios.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\GestionLibreriaBigogno.LoginFormUsuarios.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\GestionLibreriaBigogno.FrmNavegador.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\GestionLibreriaBigogno.FrmDesdeHastaCliente.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\GestionLibreriaBigogno.FrmDesdeHastaClienteRetira.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\GestionLibreriaBigogno.FrmDesdeHastaProveedores.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\GestionLibreriaBigogno.FrmEtiquetasPrecio.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\GestionLibreriaBigogno.FrmInformeCCxCliente.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\GestionLibreriaBigogno.FrmInformeComprasxProveedores.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\GestionLibreriaBigogno.FrmInformeDesdeHastaClienteRetira.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\GestionLibreriaBigogno.FrmInformeStockMinimo.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\GestionLibreriaBigogno.MDIMenu.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\GestionLibreriaBigogno.FrmDesdeHasta.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\GestionLibreriaBigogno.FrmInformeCaja.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\GestionLibreriaBigogno.FrmInformeClientes.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\GestionLibreriaBigogno.FrmInformeCompras.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\GestionLibreriaBigogno.FrmInformeProveedores.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\GestionLibreriaBigogno.FrmInformeStock.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\GestionLibreriaBigogno.FrmInformeVentas.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\GestionLibreriaBigogno.FrmLogin.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\GestionLibreriaBigogno.Resources.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.vbproj.GenerateResource.Cache
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\RdlCompile.cache
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\RdlCompile.compiled
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\GestionLibreriaBigogno.exe.manifest
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\GestionLibreriaBigogno.application
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\GestionLibreriaBigogno.exe
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\GestionLibreriaBigogno.xml
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\GestionLibreriaBigogno.pdb
+E:\PROYECTOS GIFSYS\Gestion_Comercial\Gestion_Comercial\bin\Debug\Gestion_Comercial.exe.config
+E:\PROYECTOS GIFSYS\Gestion_Comercial\Gestion_Comercial\bin\Debug\Gestion_Comercial.exe.manifest
+E:\PROYECTOS GIFSYS\Gestion_Comercial\Gestion_Comercial\bin\Debug\Gestion_Comercial.application
+E:\PROYECTOS GIFSYS\Gestion_Comercial\Gestion_Comercial\bin\Debug\Gestion_Comercial.exe
+E:\PROYECTOS GIFSYS\Gestion_Comercial\Gestion_Comercial\bin\Debug\Gestion_Comercial.pdb
+E:\PROYECTOS GIFSYS\Gestion_Comercial\Gestion_Comercial\bin\Debug\Gestion_Comercial.xml
+E:\PROYECTOS GIFSYS\Gestion_Comercial\Gestion_Comercial\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\PROYECTOS GIFSYS\Gestion_Comercial\Gestion_Comercial\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\PROYECTOS GIFSYS\Gestion_Comercial\Gestion_Comercial\bin\Debug\MySql.Data.dll
+E:\PROYECTOS GIFSYS\Gestion_Comercial\Gestion_Comercial\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+E:\PROYECTOS GIFSYS\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.vbprojAssemblyReference.cache
+E:\PROYECTOS GIFSYS\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmActualizaPrecio.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmGestionCompras.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmMarca.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmClienteRetira.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmBusquedaPresupuesto.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmBusquedaVenta.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmBusquedaVentaSinPago.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmArqueo.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.frmCaja.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmCargaPagoCC.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmConsultaPrecio.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmCreaCodigos.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmAnulaVenta.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmVentasCC.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FacturaImpresion.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.PresupuestoImpresion.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmArticulos.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.frmClientes.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmMisDatos.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.frmProveedores.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmAbout.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmBackUp.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmHacerBackup.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmRestaurarBackUp.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmBusquedaArticulo.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmBusquedaCliente.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.frmCompras.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmPresupuestos.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmVentas.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.frmUsuarios.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.LoginFormUsuarios.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmNavegador.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmDesdeHastaCliente.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmDesdeHastaClienteRetira.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmDesdeHastaProveedores.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmEtiquetasPrecio.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmImpresionStock.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmInformeCCxCliente.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmInformeDesdeHastaClienteRetira.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.MDIMenu.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmDesdeHasta.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmImpresionCaja.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmLogin.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.Resources.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.vbproj.GenerateResource.cache
+E:\PROYECTOS GIFSYS\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.vbproj.CoreCompileInputs.cache
+E:\PROYECTOS GIFSYS\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.exe.manifest
+E:\PROYECTOS GIFSYS\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.application
+E:\PROYECTOS GIFSYS\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.vbproj.CopyComplete
+E:\PROYECTOS GIFSYS\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.exe
+E:\PROYECTOS GIFSYS\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.xml
+E:\PROYECTOS GIFSYS\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.pdb
+E:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\bin\Debug\Gestion_Comercial.exe.config
+E:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\bin\Debug\Gestion_Comercial.exe.manifest
+E:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\bin\Debug\Gestion_Comercial.application
+E:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\bin\Debug\Gestion_Comercial.exe
+E:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\bin\Debug\Gestion_Comercial.pdb
+E:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\bin\Debug\Gestion_Comercial.xml
+E:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\bin\Debug\MySql.Data.dll
+E:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmActualizaPrecio.resources
+E:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmGestionCompras.resources
+E:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmMarca.resources
+E:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmClienteRetira.resources
+E:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmBusquedaPresupuesto.resources
+E:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmBusquedaVenta.resources
+E:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmBusquedaVentaSinPago.resources
+E:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmArqueo.resources
+E:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.frmCaja.resources
+E:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmCargaPagoCC.resources
+E:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmConsultaPrecio.resources
+E:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmCreaCodigos.resources
+E:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmAnulaVenta.resources
+E:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmVentasCC.resources
+E:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FacturaImpresion.resources
+E:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.PresupuestoImpresion.resources
+E:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmArticulos.resources
+E:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.frmClientes.resources
+E:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmMisDatos.resources
+E:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.frmProveedores.resources
+E:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmAbout.resources
+E:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmBackUp.resources
+E:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmHacerBackup.resources
+E:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmRestaurarBackUp.resources
+E:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmBusquedaArticulo.resources
+E:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmBusquedaCliente.resources
+E:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.frmCompras.resources
+E:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmPresupuestos.resources
+E:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmVentas.resources
+E:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.frmUsuarios.resources
+E:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.LoginFormUsuarios.resources
+E:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmNavegador.resources
+E:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmDesdeHastaCliente.resources
+E:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmDesdeHastaClienteRetira.resources
+E:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmDesdeHastaProveedores.resources
+E:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmEtiquetasPrecio.resources
+E:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmImpresionStock.resources
+E:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmInformeCCxCliente.resources
+E:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmInformeDesdeHastaClienteRetira.resources
+E:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmImpresionStockMinimo.resources
+E:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.MDIMenu.resources
+E:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmDesdeHasta.resources
+E:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmImpresionCaja.resources
+E:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmImpresionClientes.resources
+E:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmImpresionVentas.resources
+E:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmLogin.resources
+E:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.Resources.resources
+E:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.vbproj.GenerateResource.cache
+E:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.vbproj.CoreCompileInputs.cache
+E:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.exe.manifest
+E:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.application
+E:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.vbproj.CopyComplete
+E:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.exe
+E:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.xml
+E:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.pdb
+E:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.vbprojAssemblyReference.cache
+E:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmImpresionProveedores.resources
+E:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmImpresionComprasxProveedores.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\bin\Debug\Gestion_Comercial.exe.config
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\bin\Debug\Gestion_Comercial.exe.manifest
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\bin\Debug\Gestion_Comercial.application
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\bin\Debug\Gestion_Comercial.exe
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\bin\Debug\Gestion_Comercial.pdb
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\bin\Debug\Gestion_Comercial.xml
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.vbprojAssemblyReference.cache
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmActualizaPrecio.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmGestionCompras.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmMarca.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmClienteRetira.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmBusquedaPresupuesto.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmBusquedaVenta.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmBusquedaVentaSinPago.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmArqueo.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.frmCaja.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmCargaPagoCC.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmConsultaPrecio.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmCreaCodigos.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmAnulaVenta.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmVentasCC.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FacturaImpresion.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.PresupuestoImpresion.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmArticulos.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.frmClientes.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmMisDatos.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.frmProveedores.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmAbout.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmBackUp.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmHacerBackup.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmRestaurarBackUp.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmBusquedaArticulo.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmBusquedaCliente.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.frmCompras.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmPresupuestos.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmVentas.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.frmUsuarios.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.LoginFormUsuarios.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmNavegador.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmDesdeHastaCliente.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmDesdeHastaClienteRetira.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmDesdeHastaProveedores.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmEtiquetasPrecio.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmImpresionStock.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmInformeCCxCliente.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmImpresionComprasxProveedores.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmInformeDesdeHastaClienteRetira.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmImpresionStockMinimo.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.MDIMenu.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmDesdeHasta.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmImpresionCaja.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmImpresionClientes.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmImpresionProveedores.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmImpresionVentas.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmLogin.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.Resources.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.vbproj.GenerateResource.cache
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.vbproj.CoreCompileInputs.cache
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.exe.manifest
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.application
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.vbproj.CopyComplete
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.exe
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.xml
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.pdb
+E:\PROYECTOS GIFSYS\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmImpresionComprasxProveedores.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmImpresionStockMinimo.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmImpresionClientes.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmImpresionProveedores.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmImpresionVentas.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.ComprobanteCC.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\bin\Debug\Gestion_Comercial.exe.config
+E:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\bin\Debug\Gestion_Comercial.exe.manifest
+E:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\bin\Debug\Gestion_Comercial.application
+E:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\bin\Debug\Gestion_Comercial.exe
+E:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\bin\Debug\Gestion_Comercial.pdb
+E:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\bin\Debug\Gestion_Comercial.xml
+E:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\bin\Debug\MySql.Data.dll
+E:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+E:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.vbprojAssemblyReference.cache
+E:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmActualizaPrecio.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmGestionCompras.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmMarca.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmClienteRetira.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmBusquedaPresupuesto.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmBusquedaVenta.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmBusquedaVentaSinPago.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmArqueo.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.frmCaja.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmCargaPagoCC.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmConsultaPrecio.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmCreaCodigos.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmAnulaVenta.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmVentasCC.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmVentasTouch.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.ComprobanteCC.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FacturaImpresion.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.PresupuestoImpresion.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmArticulos.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.frmClientes.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmMisDatos.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.frmProveedores.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmAbout.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmBackUp.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmHacerBackup.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmRestaurarBackUp.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmBusquedaArticulo.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmBusquedaCliente.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.frmCompras.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmPresupuestos.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmVentas.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.frmUsuarios.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.LoginFormUsuarios.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmNavegador.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmDesdeHastaCliente.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmDesdeHastaClienteRetira.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmDesdeHastaProveedores.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmEtiquetasPrecio.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmImpresionStock.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmInformeCCxCliente.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmImpresionComprasxProveedores.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmInformeDesdeHastaClienteRetira.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmImpresionStockMinimo.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.MDIMenu.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmDesdeHasta.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmImpresionCaja.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmImpresionClientes.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmImpresionProveedores.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmImpresionVentas.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmLogin.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.Resources.resources
+E:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.vbproj.GenerateResource.cache
+E:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.vbproj.CoreCompileInputs.cache
+E:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.exe.manifest
+E:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.application
+E:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.vbproj.CopyComplete
+E:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.exe
+E:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.xml
+E:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.pdb
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial -touch\Gestion_Comercial\bin\Debug\Gestion_Comercial.exe.config
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.exe
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.xml
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.pdb
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial -touch\Gestion_Comercial\bin\Debug\Gestion_Comercial.exe.manifest
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial -touch\Gestion_Comercial\bin\Debug\Gestion_Comercial.application
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial -touch\Gestion_Comercial\bin\Debug\Gestion_Comercial.exe
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial -touch\Gestion_Comercial\bin\Debug\Gestion_Comercial.pdb
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial -touch\Gestion_Comercial\bin\Debug\Gestion_Comercial.xml
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial -touch\Gestion_Comercial\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial -touch\Gestion_Comercial\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.vbprojAssemblyReference.cache
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmActualizaPrecio.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmGestionCompras.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmMarca.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmClienteRetira.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmBusquedaPresupuesto.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmBusquedaVenta.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmBusquedaVentaSinPago.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmArqueo.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.frmCaja.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmCargaPagoCC.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmConsultaPrecio.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmCreaCodigos.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmAnulaVenta.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmVentasCC.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmVentasTouch.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.ComprobanteCC.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FacturaImpresion.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.PresupuestoImpresion.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmArticulos.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.frmClientes.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmMisDatos.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.frmProveedores.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmAbout.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmBackUp.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmHacerBackup.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmRestaurarBackUp.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmBusquedaArticulo.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmBusquedaCliente.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.frmCompras.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmPresupuestos.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmVentas.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.frmUsuarios.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.LoginFormUsuarios.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmNavegador.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmDesdeHastaCliente.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmDesdeHastaClienteRetira.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmDesdeHastaProveedores.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmEtiquetasPrecio.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmImpresionStock.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmInformeCCxCliente.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmImpresionComprasxProveedores.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmInformeDesdeHastaClienteRetira.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmImpresionStockMinimo.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.MDIMenu.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmDesdeHasta.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmImpresionCaja.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmImpresionClientes.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmImpresionProveedores.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmImpresionVentas.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmLogin.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.Resources.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.vbproj.GenerateResource.cache
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.vbproj.CoreCompileInputs.cache
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.exe.manifest
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.application
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.vbproj.CopyComplete
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial\bin\Debug\Gestion_Comercial.exe.config
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial\bin\Debug\Gestion_Comercial.exe.manifest
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial\bin\Debug\Gestion_Comercial.application
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial\bin\Debug\Gestion_Comercial.exe
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial\bin\Debug\Gestion_Comercial.pdb
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial\bin\Debug\Gestion_Comercial.xml
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.vbprojAssemblyReference.cache
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmActualizaPrecio.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmGestionCompras.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmMarca.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmClienteRetira.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmBusquedaPresupuesto.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmBusquedaVenta.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmBusquedaVentaSinPago.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmArqueo.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.frmCaja.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmCargaPagoCC.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmConsultaPrecio.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmCreaCodigos.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmAnulaVenta.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmVentasCC.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmVentasTouch.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.ComprobanteCC.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FacturaImpresion.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.PresupuestoImpresion.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmArticulos.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.frmClientes.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmMisDatos.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.frmProveedores.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmAbout.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmBackUp.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmHacerBackup.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmRestaurarBackUp.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmBusquedaArticulo.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmBusquedaCliente.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.frmCompras.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmPresupuestos.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmVentas.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.frmUsuarios.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.LoginFormUsuarios.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmNavegador.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmDesdeHastaCliente.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmDesdeHastaClienteRetira.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmDesdeHastaProveedores.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmEtiquetasPrecio.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmImpresionStock.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmInformeCCxCliente.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmImpresionComprasxProveedores.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmInformeDesdeHastaClienteRetira.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmImpresionStockMinimo.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.MDIMenu.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmDesdeHasta.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmImpresionCaja.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmImpresionClientes.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmImpresionProveedores.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmImpresionVentas.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmLogin.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.Resources.resources
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.vbproj.GenerateResource.cache
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.vbproj.CoreCompileInputs.cache
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.exe.manifest
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.application
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.vbproj.CopyComplete
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.exe
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.xml
+D:\Data\Documentos\Visual Studio 2017\Projects\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.pdb
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\bin\Debug\Gestion_Comercial.exe.config
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\bin\Debug\Gestion_Comercial.exe.manifest
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\bin\Debug\Gestion_Comercial.application
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\bin\Debug\Gestion_Comercial.exe
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\bin\Debug\Gestion_Comercial.pdb
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\bin\Debug\Gestion_Comercial.xml
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.vbprojAssemblyReference.cache
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmActualizaPrecio.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmGestionCompras.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmMarca.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmClienteRetira.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmBusquedaPresupuesto.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmBusquedaVenta.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmBusquedaVentaSinPago.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmArqueo.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.frmCaja.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmCargaPagoCC.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmConsultaPrecio.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmCreaCodigos.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmAnulaVenta.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmVentasCC.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmVentasTouch.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.ComprobanteCC.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FacturaImpresion.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.PresupuestoImpresion.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmArticulos.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.frmClientes.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmMisDatos.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.frmProveedores.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmAbout.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmBackUp.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmHacerBackup.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmRestaurarBackUp.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmBusquedaArticulo.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmBusquedaCliente.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.frmCompras.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmPresupuestos.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmVentas.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.frmUsuarios.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.LoginFormUsuarios.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmNavegador.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmDesdeHastaCliente.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmDesdeHastaClienteRetira.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmDesdeHastaProveedores.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmEtiquetasPrecio.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmImpresionStock.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmInformeCCxCliente.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmImpresionComprasxProveedores.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmInformeDesdeHastaClienteRetira.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmImpresionStockMinimo.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.MDIMenu.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmDesdeHasta.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmImpresionCaja.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmImpresionClientes.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmImpresionProveedores.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmImpresionVentas.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmLogin.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.Resources.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.vbproj.GenerateResource.cache
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.vbproj.CoreCompileInputs.cache
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.exe.manifest
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.application
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.vbproj.CopyComplete
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.exe
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.xml
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.pdb
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch-ok\Gestion_Comercial\bin\Debug\Gestion_Comercial.exe.config
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.exe
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.xml
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.pdb
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.vbprojResolveAssemblyReference.cache
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmActualizaPrecio.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmGestionCompras.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmMarca.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmClienteRetira.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmBusquedaPresupuesto.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmBusquedaVenta.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmBusquedaVentaSinPago.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmArqueo.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.frmCaja.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmCargaPagoCC.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmConsultaPrecio.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmCreaCodigos.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmAnulaVenta.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmVentasCC.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmVentasTouch.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.ComprobanteCC.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FacturaImpresion.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.PresupuestoImpresion.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmArticulos.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.frmClientes.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmMisDatos.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.frmProveedores.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmAbout.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmBackUp.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmHacerBackup.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmRestaurarBackUp.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmBusquedaArticulo.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmBusquedaCliente.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.frmCompras.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmPresupuestos.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmVentas.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.frmUsuarios.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.LoginFormUsuarios.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmNavegador.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmDesdeHastaCliente.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmDesdeHastaClienteRetira.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmDesdeHastaProveedores.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmEtiquetasPrecio.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmImpresionStock.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmInformeCCxCliente.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmImpresionComprasxProveedores.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmInformeDesdeHastaClienteRetira.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmImpresionStockMinimo.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.MDIMenu.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmDesdeHasta.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmImpresionCaja.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmImpresionClientes.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmImpresionProveedores.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmImpresionVentas.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmLogin.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.Resources.resources
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.vbproj.GenerateResource.Cache
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch-ok\Gestion_Comercial\bin\Debug\Gestion_Comercial.exe.manifest
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch-ok\Gestion_Comercial\bin\Debug\Gestion_Comercial.application
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch-ok\Gestion_Comercial\bin\Debug\Gestion_Comercial.exe
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch-ok\Gestion_Comercial\bin\Debug\Gestion_Comercial.pdb
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch-ok\Gestion_Comercial\bin\Debug\Gestion_Comercial.xml
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.exe.manifest
+D:\PROYECTOS GIFSYS\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.application
+D:\Datos\Escritorio\Gestion_Comercial -touch-ok\Gestion_Comercial -touch-ok\Gestion_Comercial\bin\Debug\Gestion_Comercial.exe.config
+D:\Datos\Escritorio\Gestion_Comercial -touch-ok\Gestion_Comercial -touch-ok\Gestion_Comercial\bin\Debug\Gestion_Comercial.exe.manifest
+D:\Datos\Escritorio\Gestion_Comercial -touch-ok\Gestion_Comercial -touch-ok\Gestion_Comercial\bin\Debug\Gestion_Comercial.application
+D:\Datos\Escritorio\Gestion_Comercial -touch-ok\Gestion_Comercial -touch-ok\Gestion_Comercial\bin\Debug\Gestion_Comercial.exe
+D:\Datos\Escritorio\Gestion_Comercial -touch-ok\Gestion_Comercial -touch-ok\Gestion_Comercial\bin\Debug\Gestion_Comercial.pdb
+D:\Datos\Escritorio\Gestion_Comercial -touch-ok\Gestion_Comercial -touch-ok\Gestion_Comercial\bin\Debug\Gestion_Comercial.xml
+D:\Datos\Escritorio\Gestion_Comercial -touch-ok\Gestion_Comercial -touch-ok\Gestion_Comercial\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Datos\Escritorio\Gestion_Comercial -touch-ok\Gestion_Comercial -touch-ok\Gestion_Comercial\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Datos\Escritorio\Gestion_Comercial -touch-ok\Gestion_Comercial -touch-ok\Gestion_Comercial\bin\Debug\MySql.Data.dll
+D:\Datos\Escritorio\Gestion_Comercial -touch-ok\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.vbprojAssemblyReference.cache
+D:\Datos\Escritorio\Gestion_Comercial -touch-ok\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmActualizaPrecio.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-ok\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmGestionCompras.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-ok\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmMarca.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-ok\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmClienteRetira.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-ok\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmBusquedaPresupuesto.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-ok\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmBusquedaVenta.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-ok\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmBusquedaVentaSinPago.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-ok\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmArqueo.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-ok\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.frmCaja.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-ok\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmCargaPagoCC.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-ok\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmConsultaPrecio.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-ok\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmCreaCodigos.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-ok\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmAnulaVenta.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-ok\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmVentasCC.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-ok\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmVentasTouch.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-ok\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.ComprobanteCC.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-ok\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FacturaImpresion.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-ok\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.PresupuestoImpresion.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-ok\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmArticulos.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-ok\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.frmClientes.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-ok\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmMisDatos.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-ok\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.frmProveedores.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-ok\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmAbout.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-ok\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmBackUp.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-ok\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmHacerBackup.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-ok\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmRestaurarBackUp.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-ok\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmBusquedaArticulo.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-ok\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmBusquedaCliente.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-ok\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.frmCompras.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-ok\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmPresupuestos.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-ok\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmVentas.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-ok\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.frmUsuarios.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-ok\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.LoginFormUsuarios.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-ok\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmNavegador.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-ok\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmDesdeHastaCliente.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-ok\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmDesdeHastaClienteRetira.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-ok\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmDesdeHastaProveedores.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-ok\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmEtiquetasPrecio.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-ok\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmImpresionStock.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-ok\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmInformeCCxCliente.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-ok\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmImpresionComprasxProveedores.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-ok\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmInformeDesdeHastaClienteRetira.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-ok\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmImpresionStockMinimo.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-ok\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.MDIMenu.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-ok\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmDesdeHasta.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-ok\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmImpresionCaja.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-ok\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmImpresionClientes.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-ok\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmImpresionProveedores.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-ok\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmImpresionVentas.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-ok\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmLogin.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-ok\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.Resources.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-ok\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.vbproj.GenerateResource.cache
+D:\Datos\Escritorio\Gestion_Comercial -touch-ok\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.vbproj.CoreCompileInputs.cache
+D:\Datos\Escritorio\Gestion_Comercial -touch-ok\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.exe.manifest
+D:\Datos\Escritorio\Gestion_Comercial -touch-ok\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.application
+D:\Datos\Escritorio\Gestion_Comercial -touch-ok\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.vbproj.CopyComplete
+D:\Datos\Escritorio\Gestion_Comercial -touch-ok\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.exe
+D:\Datos\Escritorio\Gestion_Comercial -touch-ok\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.xml
+D:\Datos\Escritorio\Gestion_Comercial -touch-ok\Gestion_Comercial -touch-ok\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.pdb
+D:\Datos\Escritorio\Gestion_Comercial -touch-El_Coyote\Gestion_Comercial\bin\Debug\Gestion_Comercial.exe.config
+D:\Datos\Escritorio\Gestion_Comercial -touch-El_Coyote\Gestion_Comercial\bin\Debug\Gestion_Comercial.exe.manifest
+D:\Datos\Escritorio\Gestion_Comercial -touch-El_Coyote\Gestion_Comercial\bin\Debug\Gestion_Comercial.application
+D:\Datos\Escritorio\Gestion_Comercial -touch-El_Coyote\Gestion_Comercial\bin\Debug\Gestion_Comercial.exe
+D:\Datos\Escritorio\Gestion_Comercial -touch-El_Coyote\Gestion_Comercial\bin\Debug\Gestion_Comercial.pdb
+D:\Datos\Escritorio\Gestion_Comercial -touch-El_Coyote\Gestion_Comercial\bin\Debug\Gestion_Comercial.xml
+D:\Datos\Escritorio\Gestion_Comercial -touch-El_Coyote\Gestion_Comercial\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Datos\Escritorio\Gestion_Comercial -touch-El_Coyote\Gestion_Comercial\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Datos\Escritorio\Gestion_Comercial -touch-El_Coyote\Gestion_Comercial\bin\Debug\MySql.Data.dll
+D:\Datos\Escritorio\Gestion_Comercial -touch-El_Coyote\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.vbprojAssemblyReference.cache
+D:\Datos\Escritorio\Gestion_Comercial -touch-El_Coyote\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmActualizaPrecio.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-El_Coyote\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmGestionCompras.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-El_Coyote\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmMarca.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-El_Coyote\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmClienteRetira.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-El_Coyote\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmBusquedaPresupuesto.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-El_Coyote\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmBusquedaVenta.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-El_Coyote\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmBusquedaVentaSinPago.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-El_Coyote\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmArqueo.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-El_Coyote\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.frmCaja.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-El_Coyote\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmCargaPagoCC.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-El_Coyote\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmConsultaPrecio.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-El_Coyote\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmCreaCodigos.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-El_Coyote\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmAnulaVenta.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-El_Coyote\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmVentasCC.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-El_Coyote\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmVentasTouch.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-El_Coyote\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.ComprobanteCC.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-El_Coyote\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FacturaImpresion.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-El_Coyote\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.PresupuestoImpresion.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-El_Coyote\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmArticulos.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-El_Coyote\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.frmClientes.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-El_Coyote\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmMisDatos.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-El_Coyote\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.frmProveedores.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-El_Coyote\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmAbout.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-El_Coyote\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmBackUp.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-El_Coyote\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmHacerBackup.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-El_Coyote\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmRestaurarBackUp.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-El_Coyote\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmBusquedaArticulo.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-El_Coyote\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmBusquedaCliente.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-El_Coyote\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.frmCompras.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-El_Coyote\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmPresupuestos.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-El_Coyote\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmVentas.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-El_Coyote\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.frmUsuarios.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-El_Coyote\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.LoginFormUsuarios.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-El_Coyote\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmNavegador.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-El_Coyote\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmDesdeHastaCliente.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-El_Coyote\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmDesdeHastaClienteRetira.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-El_Coyote\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmDesdeHastaProveedores.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-El_Coyote\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmEtiquetasPrecio.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-El_Coyote\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmImpresionStock.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-El_Coyote\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmInformeCCxCliente.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-El_Coyote\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmImpresionComprasxProveedores.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-El_Coyote\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmInformeDesdeHastaClienteRetira.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-El_Coyote\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmImpresionStockMinimo.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-El_Coyote\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.MDIMenu.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-El_Coyote\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmDesdeHasta.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-El_Coyote\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmImpresionCaja.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-El_Coyote\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmImpresionClientes.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-El_Coyote\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmImpresionProveedores.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-El_Coyote\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmImpresionVentas.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-El_Coyote\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmLogin.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-El_Coyote\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.Resources.resources
+D:\Datos\Escritorio\Gestion_Comercial -touch-El_Coyote\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.vbproj.GenerateResource.cache
+D:\Datos\Escritorio\Gestion_Comercial -touch-El_Coyote\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.vbproj.CoreCompileInputs.cache
+D:\Datos\Escritorio\Gestion_Comercial -touch-El_Coyote\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.exe.manifest
+D:\Datos\Escritorio\Gestion_Comercial -touch-El_Coyote\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.application
+D:\Datos\Escritorio\Gestion_Comercial -touch-El_Coyote\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.vbproj.CopyComplete
+D:\Datos\Escritorio\Gestion_Comercial -touch-El_Coyote\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.exe
+D:\Datos\Escritorio\Gestion_Comercial -touch-El_Coyote\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.xml
+D:\Datos\Escritorio\Gestion_Comercial -touch-El_Coyote\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.pdb
+C:\Users\GDJ\Desktop\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\bin\Debug\Gestion_Comercial.exe.config
+C:\Users\GDJ\Desktop\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\bin\Debug\Gestion_Comercial.exe.manifest
+C:\Users\GDJ\Desktop\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\bin\Debug\Gestion_Comercial.application
+C:\Users\GDJ\Desktop\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\bin\Debug\Gestion_Comercial.exe
+C:\Users\GDJ\Desktop\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\bin\Debug\Gestion_Comercial.pdb
+C:\Users\GDJ\Desktop\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\bin\Debug\Gestion_Comercial.xml
+C:\Users\GDJ\Desktop\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmActualizaPrecio.resources
+C:\Users\GDJ\Desktop\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmGestionCompras.resources
+C:\Users\GDJ\Desktop\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmMarca.resources
+C:\Users\GDJ\Desktop\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmClienteRetira.resources
+C:\Users\GDJ\Desktop\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmBusquedaPresupuesto.resources
+C:\Users\GDJ\Desktop\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmBusquedaVenta.resources
+C:\Users\GDJ\Desktop\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmBusquedaVentaSinPago.resources
+C:\Users\GDJ\Desktop\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmArqueo.resources
+C:\Users\GDJ\Desktop\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.frmCaja.resources
+C:\Users\GDJ\Desktop\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmCargaPagoCC.resources
+C:\Users\GDJ\Desktop\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmConsultaPrecio.resources
+C:\Users\GDJ\Desktop\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmCreaCodigos.resources
+C:\Users\GDJ\Desktop\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmAnulaVenta.resources
+C:\Users\GDJ\Desktop\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmVentasCC.resources
+C:\Users\GDJ\Desktop\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmVentasTouch.resources
+C:\Users\GDJ\Desktop\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.ComprobanteCC.resources
+C:\Users\GDJ\Desktop\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FacturaImpresion.resources
+C:\Users\GDJ\Desktop\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.PresupuestoImpresion.resources
+C:\Users\GDJ\Desktop\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmArticulos.resources
+C:\Users\GDJ\Desktop\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.frmClientes.resources
+C:\Users\GDJ\Desktop\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmMisDatos.resources
+C:\Users\GDJ\Desktop\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.frmProveedores.resources
+C:\Users\GDJ\Desktop\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmAbout.resources
+C:\Users\GDJ\Desktop\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmBackUp.resources
+C:\Users\GDJ\Desktop\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmHacerBackup.resources
+C:\Users\GDJ\Desktop\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmRestaurarBackUp.resources
+C:\Users\GDJ\Desktop\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmBusquedaArticulo.resources
+C:\Users\GDJ\Desktop\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmBusquedaCliente.resources
+C:\Users\GDJ\Desktop\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.frmCompras.resources
+C:\Users\GDJ\Desktop\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmPresupuestos.resources
+C:\Users\GDJ\Desktop\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmVentas.resources
+C:\Users\GDJ\Desktop\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.frmUsuarios.resources
+C:\Users\GDJ\Desktop\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.LoginFormUsuarios.resources
+C:\Users\GDJ\Desktop\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmNavegador.resources
+C:\Users\GDJ\Desktop\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmDesdeHastaCliente.resources
+C:\Users\GDJ\Desktop\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmDesdeHastaClienteRetira.resources
+C:\Users\GDJ\Desktop\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmDesdeHastaProveedores.resources
+C:\Users\GDJ\Desktop\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmEtiquetasPrecio.resources
+C:\Users\GDJ\Desktop\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmImpresionStock.resources
+C:\Users\GDJ\Desktop\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmInformeCCxCliente.resources
+C:\Users\GDJ\Desktop\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmImpresionComprasxProveedores.resources
+C:\Users\GDJ\Desktop\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmInformeDesdeHastaClienteRetira.resources
+C:\Users\GDJ\Desktop\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmImpresionStockMinimo.resources
+C:\Users\GDJ\Desktop\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.MDIMenu.resources
+C:\Users\GDJ\Desktop\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmDesdeHasta.resources
+C:\Users\GDJ\Desktop\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmImpresionCaja.resources
+C:\Users\GDJ\Desktop\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmImpresionClientes.resources
+C:\Users\GDJ\Desktop\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmImpresionProveedores.resources
+C:\Users\GDJ\Desktop\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmImpresionVentas.resources
+C:\Users\GDJ\Desktop\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmLogin.resources
+C:\Users\GDJ\Desktop\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.Resources.resources
+C:\Users\GDJ\Desktop\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.vbproj.GenerateResource.Cache
+C:\Users\GDJ\Desktop\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.exe.manifest
+C:\Users\GDJ\Desktop\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.application
+C:\Users\GDJ\Desktop\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.exe
+C:\Users\GDJ\Desktop\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.xml
+C:\Users\GDJ\Desktop\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.pdb
+C:\Users\GDJ\Desktop\SISTEMA EL COYOTE\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\bin\Debug\Gestion_Comercial.exe.config
+C:\Users\GDJ\Desktop\SISTEMA EL COYOTE\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\bin\Debug\Gestion_Comercial.exe.manifest
+C:\Users\GDJ\Desktop\SISTEMA EL COYOTE\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\bin\Debug\Gestion_Comercial.application
+C:\Users\GDJ\Desktop\SISTEMA EL COYOTE\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\bin\Debug\Gestion_Comercial.exe
+C:\Users\GDJ\Desktop\SISTEMA EL COYOTE\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\bin\Debug\Gestion_Comercial.pdb
+C:\Users\GDJ\Desktop\SISTEMA EL COYOTE\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\bin\Debug\Gestion_Comercial.xml
+C:\Users\GDJ\Desktop\SISTEMA EL COYOTE\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmActualizaPrecio.resources
+C:\Users\GDJ\Desktop\SISTEMA EL COYOTE\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmGestionCompras.resources
+C:\Users\GDJ\Desktop\SISTEMA EL COYOTE\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmMarca.resources
+C:\Users\GDJ\Desktop\SISTEMA EL COYOTE\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmClienteRetira.resources
+C:\Users\GDJ\Desktop\SISTEMA EL COYOTE\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmBusquedaPresupuesto.resources
+C:\Users\GDJ\Desktop\SISTEMA EL COYOTE\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmBusquedaVenta.resources
+C:\Users\GDJ\Desktop\SISTEMA EL COYOTE\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmBusquedaVentaSinPago.resources
+C:\Users\GDJ\Desktop\SISTEMA EL COYOTE\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmArqueo.resources
+C:\Users\GDJ\Desktop\SISTEMA EL COYOTE\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.frmCaja.resources
+C:\Users\GDJ\Desktop\SISTEMA EL COYOTE\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmCargaPagoCC.resources
+C:\Users\GDJ\Desktop\SISTEMA EL COYOTE\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmConsultaPrecio.resources
+C:\Users\GDJ\Desktop\SISTEMA EL COYOTE\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmCreaCodigos.resources
+C:\Users\GDJ\Desktop\SISTEMA EL COYOTE\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmAnulaVenta.resources
+C:\Users\GDJ\Desktop\SISTEMA EL COYOTE\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmVentasCC.resources
+C:\Users\GDJ\Desktop\SISTEMA EL COYOTE\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmVentasTouch.resources
+C:\Users\GDJ\Desktop\SISTEMA EL COYOTE\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.ComprobanteCC.resources
+C:\Users\GDJ\Desktop\SISTEMA EL COYOTE\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FacturaImpresion.resources
+C:\Users\GDJ\Desktop\SISTEMA EL COYOTE\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.PresupuestoImpresion.resources
+C:\Users\GDJ\Desktop\SISTEMA EL COYOTE\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmArticulos.resources
+C:\Users\GDJ\Desktop\SISTEMA EL COYOTE\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.frmClientes.resources
+C:\Users\GDJ\Desktop\SISTEMA EL COYOTE\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmMisDatos.resources
+C:\Users\GDJ\Desktop\SISTEMA EL COYOTE\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.frmProveedores.resources
+C:\Users\GDJ\Desktop\SISTEMA EL COYOTE\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmAbout.resources
+C:\Users\GDJ\Desktop\SISTEMA EL COYOTE\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmBackUp.resources
+C:\Users\GDJ\Desktop\SISTEMA EL COYOTE\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmHacerBackup.resources
+C:\Users\GDJ\Desktop\SISTEMA EL COYOTE\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmRestaurarBackUp.resources
+C:\Users\GDJ\Desktop\SISTEMA EL COYOTE\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmBusquedaArticulo.resources
+C:\Users\GDJ\Desktop\SISTEMA EL COYOTE\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmBusquedaCliente.resources
+C:\Users\GDJ\Desktop\SISTEMA EL COYOTE\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.frmCompras.resources
+C:\Users\GDJ\Desktop\SISTEMA EL COYOTE\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmPresupuestos.resources
+C:\Users\GDJ\Desktop\SISTEMA EL COYOTE\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmVentas.resources
+C:\Users\GDJ\Desktop\SISTEMA EL COYOTE\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.frmUsuarios.resources
+C:\Users\GDJ\Desktop\SISTEMA EL COYOTE\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.LoginFormUsuarios.resources
+C:\Users\GDJ\Desktop\SISTEMA EL COYOTE\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmNavegador.resources
+C:\Users\GDJ\Desktop\SISTEMA EL COYOTE\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmDesdeHastaCliente.resources
+C:\Users\GDJ\Desktop\SISTEMA EL COYOTE\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmDesdeHastaClienteRetira.resources
+C:\Users\GDJ\Desktop\SISTEMA EL COYOTE\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmDesdeHastaProveedores.resources
+C:\Users\GDJ\Desktop\SISTEMA EL COYOTE\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmEtiquetasPrecio.resources
+C:\Users\GDJ\Desktop\SISTEMA EL COYOTE\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmImpresionStock.resources
+C:\Users\GDJ\Desktop\SISTEMA EL COYOTE\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmInformeCCxCliente.resources
+C:\Users\GDJ\Desktop\SISTEMA EL COYOTE\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmImpresionComprasxProveedores.resources
+C:\Users\GDJ\Desktop\SISTEMA EL COYOTE\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmInformeDesdeHastaClienteRetira.resources
+C:\Users\GDJ\Desktop\SISTEMA EL COYOTE\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmImpresionStockMinimo.resources
+C:\Users\GDJ\Desktop\SISTEMA EL COYOTE\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.MDIMenu.resources
+C:\Users\GDJ\Desktop\SISTEMA EL COYOTE\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmDesdeHasta.resources
+C:\Users\GDJ\Desktop\SISTEMA EL COYOTE\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmImpresionCaja.resources
+C:\Users\GDJ\Desktop\SISTEMA EL COYOTE\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmImpresionClientes.resources
+C:\Users\GDJ\Desktop\SISTEMA EL COYOTE\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmImpresionProveedores.resources
+C:\Users\GDJ\Desktop\SISTEMA EL COYOTE\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmImpresionVentas.resources
+C:\Users\GDJ\Desktop\SISTEMA EL COYOTE\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.FrmLogin.resources
+C:\Users\GDJ\Desktop\SISTEMA EL COYOTE\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.Resources.resources
+C:\Users\GDJ\Desktop\SISTEMA EL COYOTE\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.vbproj.GenerateResource.Cache
+C:\Users\GDJ\Desktop\SISTEMA EL COYOTE\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.exe.manifest
+C:\Users\GDJ\Desktop\SISTEMA EL COYOTE\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.application
+C:\Users\GDJ\Desktop\SISTEMA EL COYOTE\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.exe
+C:\Users\GDJ\Desktop\SISTEMA EL COYOTE\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.xml
+C:\Users\GDJ\Desktop\SISTEMA EL COYOTE\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.pdb
+C:\Users\GDJ\Desktop\SISTEMA EL COYOTE\Gestion_Comercial -touch-El_Coyote_Logo nuevo\Gestion_Comercial\obj\x86\Debug\Gestion_Comercial.vbprojResolveAssemblyReference.cache
